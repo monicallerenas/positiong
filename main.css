@@ -1,0 +1,19 @@
+.rojo{
+	background-color: red;
+	position: relative;
+	left:50px;
+}
+.azul{
+	background-color: blue;
+	position: static;
+	left:50px;
+}
+.amarillo{
+	background-color: yellow;
+	position: relative;
+	left:50px;
+}
+div{
+	width: :100px;
+	height: 100px;
+}
