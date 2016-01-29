@@ -1,26 +1,29 @@
 .rojo{
 	background-color: red;
-	position: absolute;
+	position: static;
 	left:0px;
 	top: 0px
 }
 .azul{
 	background-color: blue;
 	position: absolute;
-	right: 0px;
-	top: 0px;
+	left: 100px;
 }
 .amarillo{
 	background-color: yellow;
-	position: absolute;
+	position: static;
 	left: 0px;
 	bottom: 0px;
 }
 .verde{
 	background-color: green;
-	position: absolute;
+	position: static;
 	right:0px;
 	bottom: 0px;
+}
+body{
+	margin: 0px;
+	padding:0px;
 }
 div{
 	width: 100px;
